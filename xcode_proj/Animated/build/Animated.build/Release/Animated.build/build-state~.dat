@@ -1,0 +1,371 @@
+TAnimated
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch.pch Animated/Animated-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated normal x86_64
+cCopyStringsFile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/en.lproj/InfoPlist.strings Animated/en.lproj/InfoPlist.strings
+cCpResource Animated/en.lproj/Credits.rtf build/Release/Animated.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Images.xcassets
+cProcessInfoPlistFile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Info.plist /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Info.plist
+cGenerateDSYMFile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app.dSYM /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated
+cTouch /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005347C66A00000000000000AA
+t1397212778
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052ECF0BF000000000000044C
+t1391259839
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053213E9000000000000001DE
+t1394687632
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052198ED8000000000000253C
+t1377406680
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053213E930000000000000ADC
+t1394687635
+s2780
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Info.plist
+c000000005415447C0000000000000451
+t1410679932
+s1105
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Prefix.pch
+c000000005415447C00000000000000AC
+t1410679932
+s172
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/AppDelegate.m
+c000000005415447C000000000000014F
+t1410679932
+s335
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Base.lproj/MainMenu.xib
+c00000000541544BE000000000000C3A9
+t1410679998
+s50089
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Images.xcassets
+c000000005415447C0000000000000066
+t1410679932
+s102
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.m
+c00000000541544A600000000000001C0
+t1410679974
+s448
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/en.lproj/Credits.rtf
+c000000005415447C00000000000001B4
+t1410679932
+s436
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/en.lproj/InfoPlist.strings
+c000000005415447C000000000000002D
+t1410679932
+s45
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/main.m
+c000000005415447C00000000000000FA
+t1410679932
+s250
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/Animated.LinkFileList
+c00000000541544DA00000000000001DA
+t1410680026
+s474
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.o
+t1410680026
+s29732
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.o
+t1410680026
+s17848
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.o
+t1410680026
+s3480
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/assetcatalog_dependencies.txt
+t1410680027
+s314
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/assetcatalog_generated_info.plist
+t1410680027
+s181
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app
+t1410680026
+s102
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app.dSYM
+t2
+s0
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Info.plist
+t1410680027
+s1419
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated
+t1410680026
+s15656
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/PkgInfo
+t1410680027
+s8
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1410680027
+s38212
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/en.lproj/Credits.rtf
+t1410680026
+s436
+
+N/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1410680026
+s92
+
+N/var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch.pch
+t1410680026
+s125816
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa88cab5a7cc5b941^d34bb85a7cc5b941^---0#1#1#--18"Check dependencies36"39190FFF-B156-4DED-B261-838DC6489073-
+
+CCompileAssetCatalog /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Images.xcassets
+s432372826.946510
+e432372827.568877
+r1
+xCompileAssetCatalog
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/Assets.car
+o/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CompileAssetCatalog build/Release/Animated.app/Contents/Resources Animated/Images.xcassets90"CompileAssetCatalog build/Release/Animated.app/Contents/Resources Animated/Images.xcassets7495f25a7cc5b941^e8a2915b7cc5b941^-343"/* com.apple.actool.compilation-results *//Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/Assets.car/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@114"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Images.xcassets/0000000000000000^1003"CompileAssetCatalog build/Release/Animated.app/Contents/Resources Animated/Images.xcassets    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Images.xcassets36"3FF7041E-4F22-4727-B17D-2CB7AB01077C-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CCompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432372826.835759
+e432372826.904950
+r1
+xCompileC
+xbuild/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/AppDelegate.m
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/AppDelegate.h
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/AppDelegate.m181"CompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.o Animated/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdc0dd65a7cc5b941^bdaae75a7cc5b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/AppDelegate.m0000000000000000^3643"CompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.o Animated/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-generated-files.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-own-target-headers.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-all-target-headers.hmap -iquote /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-project-headers.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/DerivedSources/x86_64 -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/DerivedSources -F/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release -include /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch -MMD -MT dependencies -MF /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/AppDelegate.m -o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.o36"FEE560BC-CBBA-47FC-80CF-C9EB76F43697-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CCompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432372826.836098
+e432372826.897891
+r1
+xCompileC
+xbuild/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.o
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.m
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.m171"CompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.o Animated/MyView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere622d65a7cc5b941^09dde55a7cc5b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.m0000000000000000^3613"CompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.o Animated/MyView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-generated-files.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-own-target-headers.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-all-target-headers.hmap -iquote /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-project-headers.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/DerivedSources/x86_64 -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/DerivedSources -F/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release -include /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch -MMD -MT dependencies -MF /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.d --serialize-diagnostics /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.dia -c /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/MyView.m -o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.o36"982ADA6B-9791-41F0-8711-5767E1998B63-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CCompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432372826.835914
+e432372826.883711
+r1
+xCompileC
+xbuild/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.o
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/main.m167"CompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.o Animated/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5918d65a7cc5b941^8e3ae25a7cc5b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/main.m0000000000000000^3601"CompileC build/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.o Animated/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-generated-files.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-own-target-headers.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-all-target-headers.hmap -iquote /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-project-headers.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/DerivedSources/x86_64 -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/DerivedSources -F/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release -include /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch -MMD -MT dependencies -MF /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.dia -c /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/main.m -o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.o36"EF229D8D-A5C2-4A47-9068-CB7F32D17440-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CCompileXIB /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Base.lproj/MainMenu.xib
+s432372826.945865
+e432372827.037813
+r1
+xCompileXIB
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Base.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compiling /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Base.lproj/MainMenu.xib43"CompileXIB Animated/Base.lproj/MainMenu.xib5c3ef25a7cc5b941^c5ae095b7cc5b941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Base.lproj/MainMenu.xib0000000000000000^661"CompileXIB Animated/Base.lproj/MainMenu.xib    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Base.lproj/MainMenu.xib36"3FB89F39-D592-4074-8F6C-EF8A65F51488-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CCopyStringsFile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/en.lproj/InfoPlist.strings Animated/en.lproj/InfoPlist.strings
+s432372826.945343
+e432372826.947952
+r1
+xCopyStringsFile
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/en.lproj/InfoPlist.strings
+xAnimated/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Animated/en.lproj/InfoPlist.strings124"CopyStringsFile build/Release/Animated.app/Contents/Resources/en.lproj/InfoPlist.strings Animated/en.lproj/InfoPlist.strings2b32f25a7cc5b941^4caaf25a7cc5b941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/en.lproj/InfoPlist.strings0000000000000000^480"CopyStringsFile build/Release/Animated.app/Contents/Resources/en.lproj/InfoPlist.strings Animated/en.lproj/InfoPlist.strings    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/en.lproj -- Animated/en.lproj/InfoPlist.strings36"2682CEF9-FB54-4060-AA13-A8DB4F778092-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CCpResource Animated/en.lproj/Credits.rtf build/Release/Animated.app/Contents/Resources/en.lproj/Credits.rtf
+s432372826.945492
+e432372826.947516
+r1
+xCpResource
+xAnimated/en.lproj/Credits.rtf
+xbuild/Release/Animated.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Release/Animated.app/Contents/Resources/en.lproj/Credits.rtf107"CpResource Animated/en.lproj/Credits.rtf build/Release/Animated.app/Contents/Resources/en.lproj/Credits.rtfbd1cf25a7cc5b941^5299f25a7cc5b941^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/en.lproj/Credits.rtf0034e46dddffdf42^684"CpResource Animated/en.lproj/Credits.rtf build/Release/Animated.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/en.lproj/Credits.rtf /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Resources/en.lproj36"A16EB5AE-282C-43A5-9CEB-0B5BDD087028-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CGenerateDSYMFile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app.dSYM /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated
+s432372827.571584
+e432372827.585270
+r1
+xGenerateDSYMFile
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app.dSYM
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generate /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app.dSYM99"GenerateDSYMFile build/Release/Animated.app.dSYM build/Release/Animated.app/Contents/MacOS/Animatedf564925b7cc5b941^b2d5955b7cc5b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app.dSYM0034e46dddffdf42^539"GenerateDSYMFile build/Release/Animated.app.dSYM build/Release/Animated.app/Contents/MacOS/Animated    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated -o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app.dSYM36"9F4993EF-7554-4F12-9B83-D67B801D7990-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CLd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated normal x86_64
+s432372826.906065
+e432372826.943655
+r1
+xLd
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated
+xnormal
+xx86_64
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/Animated.LinkFileList
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/main.o
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/MyView.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated67"Ld build/Release/Animated.app/Contents/MacOS/Animated normal x86_64a209e85a7cc5b941^caa5f15a7cc5b941^---0#0#1#--1215"Ld build/Release/Animated.app/Contents/MacOS/Animated normal x86_64    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release -F/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release -filelist /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/Animated.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Objects-normal/x86_64/Animated_dependency_info.dat -o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/MacOS/Animated36"81CF8D51-99DB-40D1-B23E-5DF571395227-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CProcessInfoPlistFile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Info.plist /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Info.plist
+s432372827.569408
+e432372827.571115
+r1
+xProcessInfoPlistFile
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Info.plist
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Process /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Info.plist96"ProcessInfoPlistFile build/Release/Animated.app/Contents/Info.plist Animated/Animated-Info.plist90d9915b7cc5b941^a435925b7cc5b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Info.plist0000000000000000^817"ProcessInfoPlistFile build/Release/Animated.app/Contents/Info.plist Animated/Animated-Info.plist    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    builtin-infoPlistUtility /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Info.plist -genpkginfo /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/assetcatalog_generated_info.plist -o /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app/Contents/Info.plist36"6789E9AB-D9AE-4FDE-BD39-36B65E123B90-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CProcessPCH /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch.pch Animated/Animated-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432372826.724651
+e432372826.835070
+r1
+xProcessPCH
+x/var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch.pch
+xAnimated/Animated-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Animated/Animated-Prefix.pch296"ProcessPCH /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch.pch Animated/Animated-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera6b9b95a7cc5b941^15c7d55a7cc5b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Prefix.pch0000000000000000^3650"ProcessPCH /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch.pch Animated/Animated-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-generated-files.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-own-target-headers.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-all-target-headers.hmap -iquote /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/Animated-project-headers.hmap -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/DerivedSources/x86_64 -I/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Animated.build/Release/Animated.build/DerivedSources -F/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release --serialize-diagnostics /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch.d -c /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/Animated/Animated-Prefix.pch -o /var/folders/kx/b482swtn08j3w8bwjkm3rw7m0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Animated-Prefix-bgexohydnjumerbtwychrirfdudu/Animated-Prefix.pch.pch36"27B84B82-4D13-4CED-BF25-B73BAA0611DB-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+
+CTouch /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app
+s432372827.585869
+e432372827.589238
+r1
+xTouch
+x/Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Touch /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app32"Touch build/Release/Animated.app8107965b7cc5b941^5ed8965b7cc5b941^---0#0#1#--253"Touch build/Release/Animated.app    cd /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated    /usr/bin/touch -c /Users/hiromi/Documents/Programming/Haskell/lab/objc/animated/xcode_proj/Animated/build/Release/Animated.app36"B7A238A2-AAA5-42D3-8917-7FE1556FA7AF-
+b6E4C7ECA-787D-4950-8CDA-0D3DA5CEBF51
+

@@ -1,0 +1,10 @@
+.DS_Store
+*.hi
+*.o
+*_stub.[hm]
+*_objc.[hmo]
+_build
+*.database
+TAGS
+dist
+Animated.app
